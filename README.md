@@ -1,0 +1,1 @@
+# Developing-a-ml-model-for-identifying-nutrient-deficiency-and-recommendating-manure
